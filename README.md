@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Baotai Qin 👋
 
-<!--
-**baotaiqin/baotaiqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是秦保泰，目前是一名正在求职的软件测试与测试开发方向学习者。
 
-Here are some ideas to get you started:
+这个 GitHub 账号主要用于展示我开发的项目代码、测试实践，以及学习过程中编写和整理的代码。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 求职方向
+
+- 软件测试工程师
+- 测试开发工程师
+- 自动化测试工程师
+- AI 测试智能体开发
+
+## 🛠️ 技术栈
+
+### 开发与环境
+
+- Django
+- Linux
+- Docker
+
+### 数据库与管理工具
+
+- MySQL
+- Navicat
+- DBeaver
+
+### 接口与自动化测试
+
+- Postman
+- Selenium
+- Playwright
+- pytest
+
+## 📂 仓库内容
+
+我的 GitHub 仓库主要包括：
+
+- 软件测试与测试开发项目
+- Web UI 自动化测试代码
+- 接口自动化测试代码
+- Django 项目开发代码
+- AI 测试智能体相关实践
+- 学习过程中编写和整理的代码
+
+## 📌 项目展示
+
+项目正在持续整理和更新中，后续将逐步补充项目介绍、运行方法、测试报告和技术总结。
+
+## 📫 联系方式
+
+- Email: [1953693716@qq.com](mailto:1953693716@qq.com)
